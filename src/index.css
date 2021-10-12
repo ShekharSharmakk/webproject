@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@200;400&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Mulish;
+  font-weight: 600;
+}
+.bg-lightt {
+  background-color: #ffffff !important;
+}
+/* .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+  color: rgb(255 0 0)!important;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+  color: rgb(255 0 0)!important;
+} */
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.navbar a:hover {
+  color: rgb(3 43 95) !important;
+}
+.menu_active {
+  background-color: red;
+  border-bottom: 2px solid #032b5f;
+  font-weight: bold;
+  color: #fff !important;
+}
+section#header {
+  margin-top: 43px;
+}
+strong.brand-name {
+  color: red;
+}
+.pt-lg-0 {
+  margin-top: 12em !important;
+}
+a.btn-get-strted {
+  text-decoration: none;
+  border: 2px solid red;
+  padding: 12px 29px 11px 26px;
+  border-radius: 27px;
+  color: #032b5f;
+}
+.heading {
+  text-align: center;
+  color: blueviolet;
+  font-size: 25px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 0px 2px 4px #c525ad;
+  margin: 50px;
+}
+
+.img-dev img {
+  display: flex;
+  justify-content: center;
+}
